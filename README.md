@@ -1,23 +1,6 @@
-# test
+一个Vue.js项目
+项目下载完成后
+通过npm install安装依赖包
+通过npm run dev来运行程序
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
+目录中的图片是程序运行的预览图.
